@@ -1,0 +1,14 @@
+id,cliente,operadora,vidas,valor_estimado,status,data_envio
+1001,Empresa Alfa Ltda,Bradesco Saude,12,18500.00,Aprovada,2026-08-01
+1002,Comercial Beta ME,Amil,8,9800.00,Em analise,2026-08-03
+1003,Industria Gama SA,SulAmerica,25,41200.00,Aprovada,2026-08-04
+1004,Servicos Delta,Hapvida,5,5400.00,Recusada,2026-08-05
+1005,Tech Epsilon,NotreDame Intermedica,15,23750.00,Em analise,2026-08-07
+1006,Consultoria Zeta,Porto Seguro,10,15600.00,Aprovada,2026-08-08
+1007,Mercado Theta,MedSenior,6,12300.00,Em analise,2026-08-10
+1008,Studio Iota,Bradesco Saude,4,6200.00,Aprovada,2026-08-11
+1009,Clinica Kappa,Amil,9,14100.00,Recusada,2026-08-12
+1010,Oficina Lambda,SulAmerica,18,29800.00,Aprovada,2026-08-14
+1011,Papelaria Mu,Hapvida,7,8950.00,Em analise,2026-08-15
+1012,Autopecas Nu,Porto Seguro,11,17200.00,Aprovada,2026-08-17
+
